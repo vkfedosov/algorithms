@@ -1,5 +1,3 @@
-# ID 73412192
-
 OPERATIONS = {
     '+': lambda x, y: x + y,
     '-': lambda x, y: y - x,

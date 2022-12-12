@@ -1,5 +1,3 @@
-# ID 74567110
-
 from typing import Tuple, List
 
 

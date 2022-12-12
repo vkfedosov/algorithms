@@ -1,5 +1,3 @@
-# ID 74567653
-
 from typing import List
 
 

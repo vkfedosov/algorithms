@@ -1,5 +1,3 @@
-# ID 73447534
-
 from typing import Tuple
 
 
